@@ -10,3 +10,4 @@ To start react app, navigate to root folder :
 npm install
 npm start
 ```
+Deployed Url : https://laurel-assignment-frontend-referns.netlify.app/
